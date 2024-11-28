@@ -1,0 +1,6 @@
+{
+    "prompt_for_checking_weather_we_got_a_question_or_not":
+    "<<SYS>>[INST] You are an assistant who provide the judgment and response in 0 or 1 provide judgement weather input is a valid question or not\n-Your Response only contain 0 or 1\n\n<<SYS>> the input quesiton is <QUESITON>{question}</QUESITON>\n-Given the Above question output 1 if quesiton is valid question and 0 if it is random thing not making any sence",
+    "prompt_for_generating_similar_question":
+    "<<SYS>>[INST] You are an assistant who provide the similar Questinon in response\n\n-Your question is in <QUESTION></QUESITON> \n-If quesiton contain options also give options \n\n <QUESITON>{question}</QUESITON>\n Given the Above question generate {no_of_question} similar quesiton related to '{direction}'"
+}
