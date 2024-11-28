@@ -1,17 +1,17 @@
 ![Cover Art](assets/coverArt/ReQuest-28-11-2024_created_with_textstudio_and_upscale_with_imgupscaler.png "This is cover Art")
-<center><h5>ReQuest: LLM-Powered Practice Question Generator</h5></center>
+<h5 align="center">ReQuest: LLM-Powered Practice Question Generator</h5>
 ReQuest is an AI-driven application designed to assist learners and educators by generating similar practice questions based on an input question. Built using advanced language models suppoets interface with ollama and runpod vllm serverless inference, ReQuest ensures the generated questions maintain relevance while offering variety, making it ideal for  testing, or refining understanding of a topic to build confidence.
 
 ---
 
-<center>
+
 <br><br>
-<h3>Struggling with preparation? Watch how ReQuest generates tailored questions to help examiners , interviewers and students.</h3>
-<video width="720" height="480" controls>
-  <source src="assets/videos/Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</center>
+  
+<h3 align="center">Struggling with preparation? Watch how ReQuest generates tailored questions to help examiners , interviewers and students.</h3>
+
+https://github.com/user-attachments/assets/b82a9716-1735-4ba8-88d8-894f31161b5d
+
+
 
 ## Installation and Usage  
 
@@ -58,14 +58,16 @@ To run with runpod you require an account
 - Make runpod account 
 - setup a serverless vllm machine with desired llm set configurations according to your need use only one gpu with no additional workers if you are strictly using for one person
 - create apikey 
-- paste apiKey , machine_Id , model_name in .env 
-<center>
-<h5>Here is Video of How to do it</h5>
-<video width="720" height="480" controls>
-  <source src="assets/videos/runpod_vllm_setup.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</center>
+- paste apiKey , machine_Id , model_name in .env
+
+
+
+<h5 align="center">Here is Video of How to do it</h5>
+
+https://github.com/user-attachments/assets/e046565a-97f1-4f58-877d-ffcc591fe976
+
+
+
 
 
 ## Features  
@@ -98,4 +100,4 @@ To run with runpod you require an account
 
 
 <br><br><br><br>
-<center>Made with ❤ by Lakshit</center>
+<h5 align="center">Made with ❤ by Lakshit</h5>
